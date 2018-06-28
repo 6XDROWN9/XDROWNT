@@ -2,9 +2,9 @@
   "name": "XDROWNT",
   "version": "2.1.0",
   "description": "XDROWNT",
-  "main": "index.js",
+  "main": "bot.js",
   "scripts": {
-    "test": "node index.js"
+    "test": "node bot.js"
   },
   "dependencies": {
     "discord.js": "^11.3.2",
